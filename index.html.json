@@ -1,0 +1,7 @@
+{
+    "ask": [{
+        "type": "input",
+        "name": "title",
+        "message": "Enter the name of your gallery"
+    }]
+}
